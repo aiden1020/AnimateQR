@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
     <img src="src/Animate_cropped-1-removebg-preview.png" alt="alt text" height="200">
-</div>
+</p>
 
 # AnimateQR: Aesthetic QR Code Video Generation
 

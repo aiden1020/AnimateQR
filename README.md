@@ -1,3 +1,5 @@
+<img src="src/Animate_cropped-1-removebg-preview.png" alt="alt text" height="200" style="display: block; margin: 0 auto;">
+
 # AnimateQR: Aesthetic QR Code Video Generation
 
 ### Examples

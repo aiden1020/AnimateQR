@@ -7,7 +7,7 @@
 ### Demo
 <table align="center"> 
   <tr>
-    <td><strong>w/o ControlNet</strong></td>
+    <td><strong>AnimateDiff w/o ControlNet</strong></td>
     <td ><img src="demo/AnimateDiff_CN_0/gif/AnimateDiff_00343.gif" height="150" width="150"></td>
     <td ><img src="demo/AnimateDiff_CN_0/gif/AnimateDiff_00286.gif" height="150" width="150"></td>
     <td ><img src="demo/AnimateDiff_CN_0/gif/AnimateDiff_00341.gif" height="150" width="150"></td>
